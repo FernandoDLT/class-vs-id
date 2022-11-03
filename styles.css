@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+/* Style the elements with the id "myHeader" */
+
+#myHeader {
+    color: black;
+    background-color: lightblue;
+    padding: 40px;
+    text-align: center;
+}
+
+/* Style all elements with the class name "city" */
+
+.city {
+    color: white;
+    background: orangered;
+    padding: 10px;
+}
